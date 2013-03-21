@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+gem 'rails'
+gem 'sqlite3'
+gem 'jquery-rails'
+gem 'sass-rails'
+gem 'coffee-rails'
+gem 'execjs'
+gem 'therubyracer'
+gem 'nokogiri'
